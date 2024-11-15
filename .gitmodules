@@ -1,0 +1,6 @@
+[submodule "themes/hugo-refresh"]
+	path = themes/hugo-refresh
+	url = https://github.com/PippoRJ/hugo-refresh.git
+[submodule ".github/workflows"]
+  path = .github/workflows
+  url = https://github.com/BlackBoxJU50/prtt.git
